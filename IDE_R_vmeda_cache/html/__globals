@@ -1,0 +1,2 @@
+xaringanExtra	::	c	library
+components	::	[<-	&&	all	getOption	if	isTRUE	length	options	paste	rep	return	stop
